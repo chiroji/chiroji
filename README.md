@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chiroji
+- 👀 I’m interested in lots of things, my brain's moving from one thing to another pretty easily.
+- 🌱 I’m currently learning to use debian correctly.
+- ⚡ Fun fact: I'm completly lost.
